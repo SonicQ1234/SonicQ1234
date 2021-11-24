@@ -4,7 +4,7 @@
 
 -I’m currently doing coding a bot.
 
--For any problems if bot is not working, contact me in discord at SonicQ#1900 (serious problem ONLY!)
+-For any problems if bot is not working, contact me in discord at SonicQ#1990 (serious problem ONLY!)
 
 <!---
 Currently he is making bot...
